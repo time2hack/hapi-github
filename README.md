@@ -1,2 +1,2 @@
 # hapi-github
-Github Browser on GitHub
+Github Browser with HapiJS
